@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background: #221E22;
+}
+.navbar{
+    height: 133px;
+    display: flex;
+}
+.navbar .logo img{
+    height: 170px;
+    width: 160px;
+    margin-top: 10px;
+    margin-left: 59px;
+}
+.navbar .assinar button{
+    width: 100%;    
+    height: 100%;
+    background:  #BC2DFF;
+    border-radius: 60px
+}
